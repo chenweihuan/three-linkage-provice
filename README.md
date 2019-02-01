@@ -1,3 +1,1 @@
-# Provice
-省市三级联动
-angular 和 纯js
+#### 基于原生Javascript开发的省市三级联动选择器
